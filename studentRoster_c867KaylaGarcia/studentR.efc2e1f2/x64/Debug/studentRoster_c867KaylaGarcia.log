@@ -1,0 +1,13 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(12,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(16,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(20,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(24,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(28,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(32,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(36,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\roster.cpp(40,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  studentRoster_c867KaylaGarcia.vcxproj -> C:\Users\kayla\source\repos\studentRoster_c867KaylaGarcia\x64\Debug\studentRoster_c867KaylaGarcia.exe
